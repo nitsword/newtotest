@@ -1,4 +1,6 @@
-#javadoc file
+/**
+javadoc file
+*/
 package nitsecond_day.day2;
 
 /**
